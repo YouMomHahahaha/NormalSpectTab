@@ -1,0 +1,6 @@
+name: NormalSpectTab
+version: 1.0
+main: me.didy.normalspect.NormalSpectTab
+api-version: '1.21'
+depend: [ProtocolLib]
+description: Spectators look normal in the Tab list
